@@ -4,7 +4,7 @@
 
 #analisededados #insidesales #dataviz #sql #sdr #bdr #lookerstudio #powerbi
 
-- 🌱 Estudando e **Análise de Dados**
+- 🌱 Estudando **Análise de Dados**
 
 - 💬 Me pergunte sobre **Prospecção de clientes, Inside Sales, Looker Studio, Power BI, Excel,**
 
